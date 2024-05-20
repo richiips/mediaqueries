@@ -1,1 +1,1 @@
-# mediaqueries
+Github Pages: https://richiips.github.io/mediaqueries/
